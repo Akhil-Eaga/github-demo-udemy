@@ -1,0 +1,1 @@
+Testing multiple file staging using another text file named end
